@@ -21,7 +21,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = 'ＭＣＲＯＳＳ-ＭＤ-Ｖ１１' //ur bot name
 global.ownernumber = '2349042566473' //ur owner number
-global.ownername = 'KING M-CROSS' //ur owner name
+global.ownername = '𝐊𝚰𝚴𝐆 🌹 𝚳-𝐂𝚪𝚯𝐒𝐒' //ur owner name
 global.websitex = "https://wa.me/2349042566473"
 global.wagc = "https://wa.me/2349042566473"
 global.themeemoji = '🪀'
