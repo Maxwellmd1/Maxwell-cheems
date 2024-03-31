@@ -19,19 +19,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'ＭＣＲＯＳＳ-ＭＤ-Ｖ１１' //ur bot name
-global.ownernumber = '2349042566473' //ur owner number
-global.ownername = '𝐊𝚰𝚴𝐆 🌹 𝚳-𝐂𝚪𝚯𝐒𝐒' //ur owner name
-global.websitex = "https://wa.me/2349042566473"
-global.wagc = "https://wa.me/2349042566473"
+global.botname = '𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫-Ｖ１5' //ur bot name
+global.ownernumber = '2349120730021' //ur owner number
+global.ownername = 'OP 🌟 𝑴𝑨𝑿𝑾𝑬𝑳𝑳' //ur owner name
+global.websitex = "https://wa.me/2349120730021"
+global.wagc = "https://wa.me/2349120730021"
 global.themeemoji = '🪀'
 global.wm = "Mcross Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "Mcross\n\n+2349042566473"
-global.creator = "2349042566473@s.whatsapp.net"
-global.xprefix = '✔️'
-global.premium = ["2349042566473"] // Premium User
+global.author = "MAXWELL\n\n+2349120730021"
+global.creator = "2349120730021@s.whatsapp.net"
+global.xprefix = '⚡'
+global.premium = ["2349120730021"] // Premium User
 global.hituet = 0
 
 //bot sett
